@@ -1,0 +1,16 @@
+# Secrets
+.env
+credentials.json
+*.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store
